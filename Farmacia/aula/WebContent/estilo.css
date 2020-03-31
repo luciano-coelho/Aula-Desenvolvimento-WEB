@@ -1,0 +1,59 @@
+	<style type="text/css">
+		.conteudo{
+			font-family: arial;
+			font-size: 16px;
+			text-align: justify;
+		}
+
+
+		h2{
+			font-size: 25px;
+			font-family: arial;
+			text-align: center;
+		}
+
+
+		#titulo{
+			font-family: arial;
+			text-align: center;
+			font-size: 28px;
+			text-shadow: 3px 3px 3px orange;
+		}
+
+
+		figure{
+			text-align: center;
+			font-family: arial;
+			font-size: 17px;
+
+		}
+
+
+		caption{
+			font-family: arial;
+			font-size: 18px;
+		}
+
+
+		table{
+			border: 1px solid;
+			text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		td{
+			border: 1px solid;
+			padding: 15px;
+		}
+
+
+		.rodape{
+			text-align: center;
+			font-family: arial;
+			font-size: 17px;
+
+		}
+
+
+	</style>
